@@ -5,7 +5,7 @@ All icons feature official service logos placed on a simple, uniform background 
 
 This project attempts to follow the [Apple TV Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/icons) in terms of style and composition. It is not perfect and does not claim to be — if you notice an icon that clearly deviates from the guidelines or could be improved, feel free to open an issue or pull request.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mortisshadow)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/mortisshadow)
 ---
 
 ## Preview
