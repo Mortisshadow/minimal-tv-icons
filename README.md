@@ -11,7 +11,7 @@ This project attempts to follow the [Apple TV Human Interface Guidelines](https:
 ## Preview
 
 [Screenshot 1 — Projectivy Launcher]
-[Screenshot 2 — LTV Launcher]
+[LTV Launcher](https://github.com/Mortisshadow/minimal-tv-icons/blob/main/resources/LTV.png)
 
 ---
 
