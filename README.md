@@ -6,12 +6,37 @@ All icons feature official service logos placed on a simple, uniform background 
 This project attempts to follow the [Apple TV Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/icons) in terms of style and composition. It is not perfect and does not claim to be — if you notice an icon that clearly deviates from the guidelines or could be improved, feel free to open an issue or pull request.
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/mortisshadow)
+
+---
+
+## Philosophy
+
+This is a curated icon pack, not a request service.
+
+Icons are only added if I personally consider them worthwhile and achievable within the style guidelines. Requests are welcome as inspiration, but there is no guarantee any specific icon will be added.
+
+This pack is designed exclusively for apps you actively use — streaming services, media players, VPN clients, and similar. Utility apps like file explorers, settings, galleries, or system tools are intentionally excluded. Those are better accessed through Projectivy's built-in "All Apps" section rather than cluttering your dock with icons that don't benefit from a custom look.
+
+---
+
+## Style Guidelines
+
+This pack follows the Apple TV Human Interface Guidelines as closely as possible.
+
+A key principle from the official guidelines:
+
+> "Use words only when they're essential or part of a logo."
+> — Apple Human Interface Guidelines
+
+This means icons consisting purely of text, single letters, or minimal characters are difficult or impossible to implement faithfully within this style. Apps whose identity relies entirely on a wordmark rather than a recognizable graphic symbol may not be suitable for this pack. Requests for such apps will be evaluated case by case, but may be declined if a meaningful visual representation cannot be achieved.
+
 ---
 
 ## Preview
 
-[Screenshot 1 — Projectivy Launcher]
-![LTV Launcher](https://github.com/Mortisshadow/minimal-tv-icons/blob/main/resources/LTV.png)
+*Projectivy Launcher screenshot coming soon.*
+
+![LTV Launcher](https://github.com/Mortisshadow/minimal-tv-icons/raw/main/resources/LTV.png)
 
 ---
 
@@ -37,7 +62,7 @@ icons/
 
 ## Icon Requests
 
-Want an icon that isn't in the pack yet? You can request one — but please read this first.
+Want an icon that isn't in the pack yet? You can request one — but please read the Philosophy and Style Guidelines sections first.
 
 I will only work with high-quality source material. When submitting a request, you have two options:
 
@@ -45,9 +70,9 @@ I will only work with high-quality source material. When submitting a request, y
 Provide a clean, official SVG of the app logo. I will then export it in all four resolutions (4K, Full HD, 1280x720, 1280x768) with a matching background.
 
 **Option B — Do it yourself**
-Use the icon builder tool (link coming soon) to generate all four resolutions yourself and open a pull request.
+Create the icons yourself in all four resolutions following the existing style, and open a pull request.
 
-Requests without source material or with low-quality logos will not be fulfilled.
+Requests without source material or with low-quality logos will not be fulfilled. There is no guarantee or timeframe for when a requested icon will be added.
 
 To submit a request, open a GitHub Issue and include the app name and your SVG or a link to a high-quality source.
 
