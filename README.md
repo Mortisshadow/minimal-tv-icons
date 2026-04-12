@@ -109,6 +109,7 @@ Logo sources used in this project:
 - [Lawnchair Icon Pack Resources](https://github.com/LawnchairLauncher)
 - [Noto Fonts / Google Fonts](https://fonts.google.com/noto)
 - [Archive.org](https://archive.org)
+- [Wikimedia](https://wikimedia.org)
 
 All logos remain the property of their respective owners — see Trademark Notice below.
 
