@@ -62,19 +62,31 @@ icons/
 
 ## Icon Requests
 
-Want an icon that isn't in the pack yet? You can request one — but please read the Philosophy and Style Guidelines sections first.
+Want an icon that isn't in the pack yet? You can request one — 
+but please read the Philosophy and Style Guidelines sections first.
 
-I will only work with high-quality source material. When submitting a request, you have two options:
+Please open **one issue per app** and include a short description
+of what the app does, so I can evaluate whether it fits the scope 
+of this pack.
+
+I will only work with high-quality source material. When submitting 
+a request, you have two options:
 
 **Option A — Submit an SVG**
-Provide a clean, official SVG of the app logo. I will then export it in all four resolutions (4K, Full HD, 1280x720, 1280x768) with a matching background.
+Provide a clean, official SVG of the app logo. I will then export 
+it in all four resolutions (4K, Full HD, 1280x720, 1280x768) with 
+a matching background.
 
 **Option B — Do it yourself**
-Create the icons yourself in all four resolutions following the existing style, and open a pull request.
+Create the icons yourself in all four resolutions following the 
+existing style, and open a pull request.
 
-Requests without source material or with low-quality logos will not be fulfilled. There is no guarantee or timeframe for when a requested icon will be added.
+Requests without source material or with low-quality logos will 
+not be fulfilled. There is no guarantee or timeframe for when a 
+requested icon will be added.
 
-To submit a request, open a GitHub Issue and include the app name and your SVG or a link to a high-quality source.
+To submit a request, open a GitHub Issue and include the app name, 
+a short description, and your SVG or a link to a high-quality source.
 
 ---
 
