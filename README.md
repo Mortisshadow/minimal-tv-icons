@@ -44,10 +44,16 @@ This means icons consisting purely of text, single letters, or minimal character
 
 ```
 icons/
-├── 3840x2160/    # 4K
-├── 1920x1080/    # Full HD
-├── 1280x720/     # HD (recommended for Android TV)
-└── 1280x768/     # Apple TV
+├── Soft/
+│   ├── 1280x720/
+│   ├── 1280x768/
+│   ├── 1920x1080/
+│   └── 3840x2160/
+└── Solid
+    ├── 1280x720/
+    ├── 1280x768/
+    ├── 1920x1080/
+    └── 3840x2160/
 ```
 
 ---
