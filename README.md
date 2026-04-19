@@ -44,12 +44,12 @@ This means icons consisting purely of text, single letters, or minimal character
 
 ```
 icons/
-├── Soft/
+├── soft/
 │   ├── 1280x720/
 │   ├── 1280x768/
 │   ├── 1920x1080/
 │   └── 3840x2160/
-└── Solid
+└── solid
     ├── 1280x720/
     ├── 1280x768/
     ├── 1920x1080/
@@ -116,6 +116,7 @@ Logo sources used in this project:
 - [Noto Fonts / Google Fonts](https://fonts.google.com/noto)
 - [Archive.org](https://archive.org)
 - [Wikimedia](https://wikimedia.org)
+- [Lucide](https://lucide.dev/)
 
 All logos remain the property of their respective owners — see Trademark Notice below.
 
