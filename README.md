@@ -34,7 +34,9 @@ This means icons consisting purely of text, single letters, or minimal character
 
 ## Preview
 
-*Projectivy Launcher screenshot coming soon.*
+![Dock Composition Solid](https://github.com/Mortisshadow/minimal-tv-icons/raw/main/resources/dock-composition-solid.png)
+
+![Dock Composition Soft](https://github.com/Mortisshadow/minimal-tv-icons/raw/main/resources/dock-composition-soft.png)
 
 ![LTV Launcher](https://github.com/Mortisshadow/minimal-tv-icons/raw/main/resources/LTV.png)
 
